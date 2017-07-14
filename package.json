@@ -1,0 +1,12 @@
+{
+  "name": "kube-playground",
+  "version": "0.0.0",
+  "main": "index.js",
+  "author": "zach pratt <zach@attackofzach.com>",
+  "license": "MIT",
+  "dependencies": {
+    "graphql": "0.10.1",
+    "graphql-server-hapi": "1.0.0",
+    "hapi": "16.4.3"
+  }
+}
