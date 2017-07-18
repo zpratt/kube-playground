@@ -9,4 +9,4 @@ When running the first time, you need to install dependencies with `./scripts/pr
 1. `./scripts/start-minikube.sh`
 2. `./scripts/build.sh`
 3. `./scripts/deploy.sh`
-4. `minikube service kube-node`
+4. `curl -v "$(minikube service kube-node --url)/api"`
