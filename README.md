@@ -7,6 +7,6 @@ This is nothing but a hack for me to learn with. Do not expect to find productio
 When running the first time, you need to install dependencies with `./scripts/prerequisites.sh`
 
 1. `./scripts/start-minikube.sh`
-- `./scripts/build.sh`
-- `./scripts/deploy.sh`
-- `minikube service kube-node`
+2. `./scripts/build.sh`
+3. `./scripts/deploy.sh`
+4. `minikube service kube-node`
